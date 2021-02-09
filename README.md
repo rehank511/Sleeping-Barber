@@ -1,2 +1,1 @@
 # Sleeping-Barber
-C
